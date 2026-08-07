@@ -10,7 +10,7 @@
   --ash: #6e6a5f;
 
   --display: "Fraunces", serif;
-  --body: "Public Sans", sans-serif;
+  --body: "Public Sans", DM Sans;
 
   --max-w: 1040px;
   --edge: clamp(24px, 6vw, 96px);
